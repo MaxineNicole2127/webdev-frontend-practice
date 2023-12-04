@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Arial", "sans-serif";
+}
+
+/* body {
+    background-color: #0E3663;
+    margin: 25px;
+}
+
+section {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 40px;
+}
+
+section .box {
+    display: flex;
+    height: 220px;
+    padding: 20px;
+    color: #0E3663;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+}
+
+section .box .large-text{
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+#perform-button {
+    background-color: #636D3C;
+    color: white;
+    float: right;
+    margin-top: 40px;
+    font-weight: bold;
+    border: none; outline: none;
+    padding: 20px;
+    border-radius: 50px;
+} */
+
+@media only screen and (max-width: 1440px) {
+    body {
+        background-color: #0E3663;
+        margin: 25px;
+    }
+    
+    section {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: repeat(4, 1fr);
+        grid-column-gap: 35px;
+    }
+    
+    section .box {
+        display: flex;
+        height: 220px;
+        padding: 20px;
+        color: #0E3663;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        background-color: white;
+    }
+    
+    section .box .large-text{
+        margin-top: 50px;
+        font-size: 40px;
+    }
+    
+    #perform-button {
+        background-color: #636D3C;
+        color: white;
+        float: right;
+        margin-top: 40px;
+        font-weight: bold;
+        border: none; outline: none;
+        padding: 20px;
+        border-radius: 50px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    body {
+        background-color: #FFF;
+    }
+    
+    section {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 40px;
+        grid-row-gap: 40px;
+    }
+    
+    section .box {
+        color: #FFF;
+        background-color: #0E3663;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: #0E3663;
+    }
+    
+    section {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 40px;
+    }
+    
+    section .box {
+        background-color: #FFF;
+        color: #0E3663;
+    }
+}
