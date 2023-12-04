@@ -1,0 +1,18 @@
+DOCUMENTATIONS
+
+Frontend Web Development
+1. HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+2. CSS : https://developer.mozilla.org/en-US/docs/Web/CSS
+3. Javascript: https://devdocs.io/javascript/
+4. TypeScript: https://www.typescriptlang.org/docs/
+5. Vue 3: https://devdocs.io/vue~3/
+6. Nuxt 3: https://nuxt.com/docs
+7. Quasar: https://quasar.dev/docs/
+
+Backend Web Development
+1. Javascript: https://devdocs.io/javascript/
+2. TypeScript: https://www.typescriptlang.org/docs/
+3. Node: https://nodejs.org/en/docs
+4. MongoDB: https://www.google.com/aclk?sa=l&ai=DChcSEwirtbn6rfaCAxXP6RYFHb_GCVUYABAAGgJ0bA&ase=2&gclid=CjwKCAiAjrarBhAWEiwA2qWdCGzGr8T8SLtBaltfApPIyx6PG_af85QOS4U2zqrImC--TLw8cRi0LhoCG94QAvD_BwE&sig=AOD64_1BIU-B4uuH_L7R-6zAj_sawgjTSw&q&nis=4&adurl&ved=2ahUKEwiWr7P6rfaCAxVUb94KHf0tCtAQ0Qx6BAgIEAE
+5. Mongoose: https://mongoosejs.com/docs/
+6. Express: https://expressjs.com/
