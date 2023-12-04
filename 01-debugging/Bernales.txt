@@ -1,0 +1,1 @@
+The debugging technique that I like using is Backtracking because not only does it save me time in debugging my program but it also informs me of the "rules" that I do not often encounter in my daily coding.
