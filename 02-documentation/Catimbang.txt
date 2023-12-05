@@ -1,0 +1,19 @@
+Frontend:
+
+HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+TypeScript: https://www.typescriptlang.org/docs/
+Vue 3: https://v3.vuejs.org/
+Nuxt 3: https://nuxtjs.org/docs/get-started/installation
+Quasar: https://quasar.dev/
+
+
+Backend:
+
+JavaScript (for Node.js): https://nodejs.org/en/docs/
+TypeScript (for Node.js): https://www.typescriptlang.org/docs/handbook/intro.html
+Node.js: https://nodejs.org/en/docs/
+MongoDB: https://docs.mongodb.com/
+Mongoose (MongoDB object modeling for Node.js): https://mongoosejs.com/docs/
+Express (web application framework for Node.js): https://expressjs.com/
