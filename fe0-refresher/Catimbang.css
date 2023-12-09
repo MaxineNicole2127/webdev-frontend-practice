@@ -98,6 +98,26 @@ section .box .operation
     margin-bottom: 50px;
 }
 
+section .box:hover
+{
+    background-color: #15539b;
+    color: white;
+    border: 1px solid white;
+    transition-duration: 0.4s;
+}
+
+section .box:hover > .value
+{
+    color: white;
+    transition-duration: 0.4s;
+}
+
+section .box:hover > .operation
+{
+    color: white;
+    transition-duration: 0.4s; 
+}
+
 @media only screen and (min-width: 1440px)
 {
     section .box .operation
