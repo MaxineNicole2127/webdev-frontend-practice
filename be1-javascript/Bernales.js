@@ -14,7 +14,7 @@ class Robot extends Entity {
         super(name);
         this.legs = 2;
     } walk() {
-        console.log(`${this.name} is walking with legs--brrrrt`);
+        console.log(`${this.name} is walking with ${this.legs} legs--brrrrt`);
     }
 }
 
@@ -23,7 +23,7 @@ class Cat extends Entity {
         super(name);
         this.legs = 4;
     } walk() {
-        console.log(`${this.name} is walking with legs--meow`);
+        console.log(`${this.name} is walking with ${this.legs} legs--meow`);
     } growl() {
         return "Purrr~^^";
     }
