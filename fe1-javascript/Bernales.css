@@ -5,7 +5,7 @@
     font-family: "Arial", "sans-serif";
 }
 
-@media only screen and (max-width: 1440px) {
+/*@media only screen and (max-width: 1440px) { */
     body {
         background-color: #0E3663;
         margin: 25px;
@@ -44,7 +44,7 @@
         padding: 20px;
         border-radius: 50px;
     }
-}
+/* } */
 
 @media only screen and (max-width: 1024px) {
     body {
